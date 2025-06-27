@@ -1,4 +1,5 @@
 #### 开源
+- [awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs)
 - [happy-dom](https://github.com/capricorn86/happy-dom)
 - [stricli](https://github.com/bloomberg/stricli)
 
