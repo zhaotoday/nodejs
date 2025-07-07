@@ -1,4 +1,5 @@
 #### 开源
+- [knex](https://github.com/knex/knex)
 - [simple-socks](https://github.com/brozeph/simple-socks)
 - [node-typescript-boilerplate](https://github.com/jsynowiec/node-typescript-boilerplate)
 - [https-proxy-agent](https://www.npmjs.com/package/https-proxy-agent)
