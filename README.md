@@ -1,4 +1,5 @@
 #### 开源
+- [tsx](https://github.com/privatenumber/tsx)
 - [knex](https://github.com/knex/knex)
 - [simple-socks](https://github.com/brozeph/simple-socks)
 - [node-typescript-boilerplate](https://github.com/jsynowiec/node-typescript-boilerplate)
