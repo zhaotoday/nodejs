@@ -12,5 +12,6 @@
 - [api-helper](https://github.com/ztz2/api-helper)
 
 #### 文章
+- [译：Node.js 项目中的 TypeScript](https://juejin.cn/post/7519918289146707978)
 - [飞速入门 Axon：Node.js 微服务的轻量级选择](https://juejin.cn/post/7492262743697801225)
 - [🔥分享 2024 年一些好用的 Node.js Cli 工具库](https://juejin.cn/post/7401327691893817370)
