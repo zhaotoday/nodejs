@@ -1,4 +1,5 @@
 #### 开源
+- [picocolors](https://github.com/alexeyraspopov/picocolors)
 - [node-easysms](https://github.com/hpyer/node-easysms)
 - [tsx](https://github.com/privatenumber/tsx)
 - [knex](https://github.com/knex/knex)
