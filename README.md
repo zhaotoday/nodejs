@@ -1,4 +1,5 @@
 #### 开源
+- [node-cld](https://github.com/dachev/node-cld)
 - [picocolors](https://github.com/alexeyraspopov/picocolors)
 - [node-easysms](https://github.com/hpyer/node-easysms)
 - [tsx](https://github.com/privatenumber/tsx)
