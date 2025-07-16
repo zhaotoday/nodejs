@@ -16,6 +16,7 @@
 - [api-helper](https://github.com/ztz2/api-helper)
 
 #### 文章
+- [10 分钟搞定直播：Node.js + FFmpeg + flv.js 全栈实战](https://juejin.cn/post/7527315271377698816)
 - [提取视频中的音频 NodeJS](https://juejin.cn/post/7507438828178292772)
 - [🔥 Node.js服务器并发控制实战：让你的服务器不被流量冲垮！](https://juejin.cn/post/7441396110589083658)
 - [Prom-Client 开源项目教程](https://blog.csdn.net/gitblog_00134/article/details/141381192)
