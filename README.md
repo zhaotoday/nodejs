@@ -18,6 +18,8 @@
 - [api-helper](https://github.com/ztz2/api-helper)
 
 #### 文章
+- [Encore.ts 深度解析：用 Rust 加速的 TypeScript 后端框架，性能与效率双飞跃](https://juejin.cn/post/7507473264797630499)
+- [为什么选择Elysia.js - Node.js后端框架的最佳选择](https://juejin.cn/post/7527566577191911465)
 - [【前端工程化】自动切换Node版本 & 包管理器](https://juejin.cn/post/7407983735662411810)
 - [Volta 技术文档](https://juejin.cn/post/7428833091466952739)
 - [10 分钟搞定直播：Node.js + FFmpeg + flv.js 全栈实战](https://juejin.cn/post/7527315271377698816)
