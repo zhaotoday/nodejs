@@ -18,6 +18,7 @@
 - [api-helper](https://github.com/ztz2/api-helper)
 
 #### 文章
+- [【前端工程化】自动切换Node版本 & 包管理器](https://juejin.cn/post/7407983735662411810)
 - [Volta 技术文档](https://juejin.cn/post/7428833091466952739)
 - [10 分钟搞定直播：Node.js + FFmpeg + flv.js 全栈实战](https://juejin.cn/post/7527315271377698816)
 - [提取视频中的音频 NodeJS](https://juejin.cn/post/7507438828178292772)
