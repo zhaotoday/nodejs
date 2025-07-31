@@ -18,6 +18,7 @@
 - [api-helper](https://github.com/ztz2/api-helper)
 
 #### 文章
+- [Node.js 常用安全模块大全汇总](https://juejin.cn/post/7519066960652206095)
 - [Encore.ts 深度解析：用 Rust 加速的 TypeScript 后端框架，性能与效率双飞跃](https://juejin.cn/post/7507473264797630499)
 - [为什么选择Elysia.js - Node.js后端框架的最佳选择](https://juejin.cn/post/7527566577191911465)
 - [【前端工程化】自动切换Node版本 & 包管理器](https://juejin.cn/post/7407983735662411810)
