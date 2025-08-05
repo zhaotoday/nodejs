@@ -1,4 +1,5 @@
 #### 开源
+- [p-queue](https://github.com/sindresorhus/p-queue)
 - [humanfs](https://github.com/humanwhocodes/humanfs)
 - [fnm](https://github.com/Schniz/fnm)
 - [Node-Media-Server](https://github.com/illuspas/Node-Media-Server)
