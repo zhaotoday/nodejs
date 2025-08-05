@@ -1,4 +1,5 @@
 #### 开源
+- [is-online](https://github.com/sindresorhus/is-online)
 - [p-queue](https://github.com/sindresorhus/p-queue)
 - [p-limit](https://github.com/sindresorhus/p-limit)
 - [humanfs](https://github.com/humanwhocodes/humanfs)
