@@ -1,4 +1,5 @@
 #### 开源
+- [image-size](https://github.com/image-size/image-size)
 - [clack](https://github.com/bombshell-dev/clack)
 - [is-online](https://github.com/sindresorhus/is-online)
 - [p-queue](https://github.com/sindresorhus/p-queue)
