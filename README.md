@@ -39,8 +39,7 @@
 - [飞速入门 Axon：Node.js 微服务的轻量级选择](https://juejin.cn/post/7492262743697801225)
 - [🔥分享 2024 年一些好用的 Node.js Cli 工具库](https://juejin.cn/post/7401327691893817370)
 
-#### Bun
+#### Bun & Deno
 - [elysia](https://elysia.zhcndoc.com/)
-
-#### Deno
 - [oak](https://oakserver.org/)
+- [hono](https://github.com/honojs/hono)
