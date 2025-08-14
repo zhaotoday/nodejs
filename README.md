@@ -43,3 +43,4 @@
 - [elysia](https://elysia.zhcndoc.com/)
 - [oak](https://oakserver.org/)
 - [hono](https://github.com/honojs/hono)
+- [clhoria-template](https://github.com/zhe-qi/clhoria-template)
