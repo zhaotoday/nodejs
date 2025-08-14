@@ -24,6 +24,7 @@
 - [api-helper](https://github.com/ztz2/api-helper)
 
 #### 文章
+- [项目密码加密你是选择bcrypt还是crypto](https://juejin.cn/post/7510500732661170213)
 - [Node.js 中的 Gzip 压缩：加速你的 Web 应用传输](https://juejin.cn/post/7536966677247623168)
 - [Node.js 常用安全模块大全汇总](https://juejin.cn/post/7519066960652206095)
 - [Encore.ts 深度解析：用 Rust 加速的 TypeScript 后端框架，性能与效率双飞跃](https://juejin.cn/post/7507473264797630499)
