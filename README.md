@@ -1,4 +1,5 @@
 #### 开源
+- [tinypool](https://github.com/tinylibs/tinypool)
 - [node-activex](https://github.com/durs/node-activex)
 - [fastest-validator](https://github.com/icebob/fastest-validator)
 - [image-size](https://github.com/image-size/image-size)
