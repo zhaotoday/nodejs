@@ -1,4 +1,5 @@
 #### 开源
+- [ftp-deploy](https://github.com/SamKirkland/ftp-deploy)
 - [tinypool](https://github.com/tinylibs/tinypool)
 - [node-activex](https://github.com/durs/node-activex)
 - [fastest-validator](https://github.com/icebob/fastest-validator)
