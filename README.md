@@ -1,4 +1,5 @@
 #### 开源
+- [tencentcloud-sdk-nodejs](https://github.com/tencentcloud/tencentcloud-sdk-nodejs)
 - [noble-winrt](https://github.com/Timeular/noble-winrt)
 - [opentui](https://github.com/sst/opentui)
 - [node-usb](https://github.com/node-usb/node-usb)
