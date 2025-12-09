@@ -34,6 +34,7 @@
 - [api-helper](https://github.com/ztz2/api-helper)
 
 #### 文章
+- [ServBay 详解：一站式本地 Web 开发环境](https://juejin.cn/post/7577171133431431209)
 - [C++ 原生扩展、node-gyp 与 CMake.js](https://juejin.cn/post/7555498288524820480)
 - [项目密码加密你是选择bcrypt还是crypto](https://juejin.cn/post/7510500732661170213)
 - [Node.js 中的 Gzip 压缩：加速你的 Web 应用传输](https://juejin.cn/post/7536966677247623168)
