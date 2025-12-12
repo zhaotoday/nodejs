@@ -1,4 +1,5 @@
 #### 开源
+- [h3](https://github.com/h3js/h3)
 - [tencentcloud-sdk-nodejs](https://github.com/tencentcloud/tencentcloud-sdk-nodejs)
 - [noble-winrt](https://github.com/Timeular/noble-winrt)
 - [opentui](https://github.com/sst/opentui)
