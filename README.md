@@ -1,4 +1,5 @@
 #### 开源
+- [tinify-nodejs](https://github.com/tinify/tinify-nodejs)
 - [h3](https://github.com/h3js/h3)
 - [tencentcloud-sdk-nodejs](https://github.com/tencentcloud/tencentcloud-sdk-nodejs)
 - [noble-winrt](https://github.com/Timeular/noble-winrt)
