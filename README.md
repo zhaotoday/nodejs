@@ -1,4 +1,5 @@
 #### 开源
+- [jimp](https://github.com/jimp-dev/jimp)
 - [sharp-cli](https://github.com/vseventer/sharp-cli)
 - [image-size](https://github.com/image-size/image-size)
 - [probe-image-size](https://github.com/nodeca/probe-image-size)
