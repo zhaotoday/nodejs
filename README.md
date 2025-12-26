@@ -1,4 +1,6 @@
 #### 开源
+- [image-size](https://github.com/image-size/image-size)
+- [probe-image-size](https://github.com/nodeca/probe-image-size)
 - [tinify-nodejs](https://github.com/tinify/tinify-nodejs)
 - [h3](https://github.com/h3js/h3)
 - [tencentcloud-sdk-nodejs](https://github.com/tencentcloud/tencentcloud-sdk-nodejs)
