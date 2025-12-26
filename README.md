@@ -1,4 +1,5 @@
 #### 开源
+- [sharp-cli](https://github.com/vseventer/sharp-cli)
 - [image-size](https://github.com/image-size/image-size)
 - [probe-image-size](https://github.com/nodeca/probe-image-size)
 - [tinify-nodejs](https://github.com/tinify/tinify-nodejs)
