@@ -41,6 +41,7 @@
 - [api-helper](https://github.com/ztz2/api-helper)
 
 #### 文章
+- [AI 时代如何打造一个更顺手的 Terminal？](https://juejin.cn/post/7523209098592305195)
 - [ServBay 详解：一站式本地 Web 开发环境](https://juejin.cn/post/7577171133431431209)
 - [C++ 原生扩展、node-gyp 与 CMake.js](https://juejin.cn/post/7555498288524820480)
 - [项目密码加密你是选择bcrypt还是crypto](https://juejin.cn/post/7510500732661170213)
