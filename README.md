@@ -1,4 +1,5 @@
 #### 开源
+- [odiff](https://github.com/dmtrKovalenko/odiff)
 - [imagemin](https://github.com/imagemin/imagemin)
 - [jimp](https://github.com/jimp-dev/jimp)
 - [sharp-cli](https://github.com/vseventer/sharp-cli)
