@@ -1,4 +1,5 @@
 #### 开源
+- [tesseract.js](https://github.com/naptha/tesseract.js)
 - [odiff](https://github.com/dmtrKovalenko/odiff)
 - [imagemin](https://github.com/imagemin/imagemin)
 - [jimp](https://github.com/jimp-dev/jimp)
