@@ -1,4 +1,5 @@
 #### 开源
+- [vonage-node-sdk](https://github.com/Vonage/vonage-node-sdk)
 - [tesseract.js](https://github.com/naptha/tesseract.js)
 - [odiff](https://github.com/dmtrKovalenko/odiff)
 - [imagemin](https://github.com/imagemin/imagemin)
