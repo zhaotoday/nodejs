@@ -63,6 +63,7 @@
 - [🔥分享 2024 年一些好用的 Node.js Cli 工具库](https://juejin.cn/post/7401327691893817370)
 
 #### Bun & Deno
+- [honox](https://github.com/honojs/honox)
 - [elysia](https://elysia.zhcndoc.com/)
 - [oak](https://oakserver.org/)
 - [hono](https://github.com/honojs/hono)
