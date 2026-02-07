@@ -45,6 +45,7 @@
 - [api-helper](https://github.com/ztz2/api-helper)
 
 #### 文章
+- [开源项目安装与配置指南——yao-pkg/pkg](https://blog.csdn.net/gitblog_00909/article/details/147006845)
 - [AI 时代如何打造一个更顺手的 Terminal？](https://juejin.cn/post/7523209098592305195)
 - [ServBay 详解：一站式本地 Web 开发环境](https://juejin.cn/post/7577171133431431209)
 - [C++ 原生扩展、node-gyp 与 CMake.js](https://juejin.cn/post/7555498288524820480)
