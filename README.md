@@ -1,4 +1,5 @@
 #### 开源
+- [pkg](https://github.com/yao-pkg/pkg)
 - [vonage-node-sdk](https://github.com/Vonage/vonage-node-sdk)
 - [tesseract.js](https://github.com/naptha/tesseract.js)
 - [odiff](https://github.com/dmtrKovalenko/odiff)
