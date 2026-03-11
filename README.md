@@ -1,4 +1,5 @@
 #### 开源
+- [inngest-js](https://github.com/inngest/inngest-js)
 - [jiti](https://github.com/unjs/jiti)
 - [pkg](https://github.com/yao-pkg/pkg)
 - [vonage-node-sdk](https://github.com/Vonage/vonage-node-sdk)
