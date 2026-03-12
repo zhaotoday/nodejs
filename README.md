@@ -1,4 +1,5 @@
 #### 开源
+- [better-sqlite3](https://github.com/WiseLibs/better-sqlite3)
 - [inngest-js](https://github.com/inngest/inngest-js)
 - [jiti](https://github.com/unjs/jiti)
 - [pkg](https://github.com/yao-pkg/pkg)
