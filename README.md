@@ -1,4 +1,5 @@
 #### 开源
+- [cross-platform-node-guide](https://github.com/ehmicky/cross-platform-node-guide)
 - [get-node](https://github.com/ehmicky/get-node)
 - [h3](https://github.com/h3js/h3)
 - [better-sqlite3](https://github.com/WiseLibs/better-sqlite3)
