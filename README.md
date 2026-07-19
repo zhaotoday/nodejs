@@ -1,4 +1,5 @@
 #### 开源
+- [JXA-userland/JXA](https://github.com/JXA-userland/JXA)
 - [larksuite/node-sdk](https://github.com/larksuite/node-sdk)
 - [trpc-to-openapi](https://github.com/mcampa/trpc-to-openapi)
 - [cross-platform-node-guide](https://github.com/ehmicky/cross-platform-node-guide)
