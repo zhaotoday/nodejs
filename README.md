@@ -1,4 +1,5 @@
 #### 开源
+- [larksuite/node-sdk](https://github.com/larksuite/node-sdk)
 - [trpc-to-openapi](https://github.com/mcampa/trpc-to-openapi)
 - [cross-platform-node-guide](https://github.com/ehmicky/cross-platform-node-guide)
 - [get-node](https://github.com/ehmicky/get-node)
