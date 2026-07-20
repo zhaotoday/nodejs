@@ -1,4 +1,5 @@
 #### 开源
+- [opendal](https://github.com/apache/opendal)
 - [node-pty](https://github.com/microsoft/node-pty)
 - [tokenx](https://github.com/johannschopplich/tokenx)
 - [JXA-userland/JXA](https://github.com/JXA-userland/JXA)
