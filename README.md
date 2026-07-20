@@ -1,4 +1,5 @@
 #### 开源
+- [node-pty](https://github.com/microsoft/node-pty)
 - [tokenx](https://github.com/johannschopplich/tokenx)
 - [JXA-userland/JXA](https://github.com/JXA-userland/JXA)
 - [larksuite/node-sdk](https://github.com/larksuite/node-sdk)
