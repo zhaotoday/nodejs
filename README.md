@@ -1,4 +1,5 @@
 #### 开源
+- [node-rate-limiter-flexible](https://github.com/animir/node-rate-limiter-flexible)
 - [opendal](https://github.com/apache/opendal)
 - [node-pty](https://github.com/microsoft/node-pty)
 - [tokenx](https://github.com/johannschopplich/tokenx)
