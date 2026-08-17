@@ -1,4 +1,5 @@
 #### 开源
+- [gpt-tokenizer](https://github.com/niieani/gpt-tokenizer)
 - [node-rate-limiter-flexible](https://github.com/animir/node-rate-limiter-flexible)
 - [opendal](https://github.com/apache/opendal)
 - [node-pty](https://github.com/microsoft/node-pty)
