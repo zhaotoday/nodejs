@@ -1,4 +1,5 @@
 #### 开源
+- [wreq-js](https://github.com/sqdshguy/wreq-js)
 - [node-system-bridge](https://www.npmjs.com/package/node-system-bridge)
 - [gpt-tokenizer](https://github.com/niieani/gpt-tokenizer)
 - [node-rate-limiter-flexible](https://github.com/animir/node-rate-limiter-flexible)
